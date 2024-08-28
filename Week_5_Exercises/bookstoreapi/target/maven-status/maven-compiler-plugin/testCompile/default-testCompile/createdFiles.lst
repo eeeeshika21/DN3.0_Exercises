@@ -1,0 +1,3 @@
+com\example\bookstoreapi\BookstoreapiApplicationTests.class
+com\example\bookstoreapi\controller\BookIntegrationTest.class
+com\example\bookstoreapi\controller\BookControllerTest.class
